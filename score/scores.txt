@@ -1,0 +1,7 @@
+Joueur1 5000 120
+Joueur2 4000 80
+Joueur3 3000 100
+Joueur4 2000 150
+Joueur5 1000 200
+
+
